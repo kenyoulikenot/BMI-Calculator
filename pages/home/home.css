@@ -1,0 +1,11 @@
+ion-content {
+  background: linear-gradient(to bottom,#D1913C, #FFD194);
+}
+h2{
+  color: #FFFFFF;
+  
+}
+p{
+  color: #FFFFFF;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
